@@ -87,9 +87,8 @@ Required Feature
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-"![Screenshot 2025-11-12 at 7.53.27 PM](https://hackmd.io/_uploads/SJf8WnzxWe.png)
-
-"![Screenshot 2025-11-13 211034](https://hackmd.io/_uploads/S1d21zVeZe.png)
+<img title="a title" alt="Alt text" src="https://hackmd.io/_uploads/SJf8WnzxWe.png">
+<img title="a title" alt="Alt text" src="https://hackmd.io/_uploads/S1d21zVeZe.png">
  
 
 ### [BONUS] Interactive Prototype
