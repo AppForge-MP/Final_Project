@@ -46,4 +46,5 @@ The following EXTRA features are implemented:
 
 Here's a place for any other notes on this milestone!
 -Unable to update the course portal group info with the Group Name and App Description. 
+
 ![Photo of Inability to update group information](https://cdn.discordapp.com/attachments/883446039833624647/1438726187932450948/image.png?ex=6917edad&is=69169c2d&hm=25cd4ee2a3e0f854a178d3a2b01f0c3c6bdbbdb2c2caab48670a0b42017497b1&)
