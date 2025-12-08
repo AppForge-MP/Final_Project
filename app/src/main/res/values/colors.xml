@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Default Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom Theme Primary Colors -->
+    <color name="primary_blue">#007BFF</color>
+    <color name="primary_pink">#E91E63</color>
+    <color name="primary_purple">#673AB7</color>
+    <color name="colorPrimaryPurple">#673AB7</color>
+    <color name="colorPrimaryDarkPurple">#512DA8</color>
+    <color name="colorLightNeutral">#FFFFFF</color>
+    <color name="colorLightBackground">#F3E5F5</color>
+
+
+    <!-- Background Colors (used in Kotlin logic) -->
+    <color name="background_dark">#FF000000</color>
+    <color name="background_light">#FFF0F0F0</color>
+    <color name="card_dark">#2E3A46</color>
+    <color name="text_light">#FFFFFFFF</color>
+    <color name="text_dark">#FF000000</color>
+
+    <!-- Theme specific secondary colors (You can customize these) -->
+    <color name="blue_accent">#17A2B8</color>
+    <color name="pink_accent">#FF4081</color>
+    <color name="purple_accent">#9C27B0</color>
 </resources>

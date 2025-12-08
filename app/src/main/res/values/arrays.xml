@@ -1,12 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Reply Preference -->
-    <string-array name="reply_entries">
-        <item>Reply</item>
-        <item>Reply to all</item>
+    <!-- User-facing titles displayed in the ListPreference dialog -->
+    <string-array name="theme_entries">
+        <item>Dark Blue</item>
+        <item>Vibrant Pink</item>
+        <item>Deep Purple</item>
     </string-array>
 
-    <string-array name="reply_values">
-        <item>reply</item>
-        <item>reply_all</item>
+    <!-- Values saved to SharedPreferences (match these strings to your Kotlin logic) -->
+    <string-array name="theme_values">
+        <item>dark</item>
+        <item>pink</item>
+        <item>purple</item>
     </string-array>
 </resources>
