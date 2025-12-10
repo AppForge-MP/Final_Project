@@ -85,9 +85,9 @@ Required Feature
     - Saves progress throughout all entries
 
 ## Wireframes
-"![Screenshot 2025-11-12 at 7.53.27 PM](https://i.imgur.com/YqlbCq8.png)
+![Screenshot 2025-11-12 at 7.53.27 PM](https://i.imgur.com/YqlbCq8.png)
 
-"![Screenshot 2025-11-13 211034](blob:https://imgur.com/f26ac70c-c626-4d13-9b91-6b071fef4ffc)
+![Screenshot 2025-11-13 211034](https://i.imgur.com/Ynz3zBb.png)
 
 ### [BONUS] Digital Wireframes & Mockups
  
