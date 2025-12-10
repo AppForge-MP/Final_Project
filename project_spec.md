@@ -70,19 +70,13 @@ Stretch Features:
 
 Required Feature
 
-- **Creating an account**
-  - Username // password log-in
-  - Or signing in exisiting account
-  - ...
 - **Selecting a date**
   - Picking a date from the calender to edit
   - Other months, year, weeks, etc. avaliable to view
 - **Creating an entry**
-    - After selecting a day, users can add/edit/update journal entry 
-    - Saves progress throughout all entries
-- **Adding photos**
-    - Users are able to add pictures within their journal entries and can edit/update as well
-    - Saves progress throughout all entries
+    - Able to add and create an entry 
+- **Change theme of app **
+    - Users are able to change theme of app depending on their mood. 
 
 ## Wireframes
 ![Screenshot 2025-11-12 at 7.53.27 PM](https://i.imgur.com/YqlbCq8.png)
