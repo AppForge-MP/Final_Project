@@ -85,11 +85,11 @@ Required Feature
     - Saves progress throughout all entries
 
 ## Wireframes
+"![Screenshot 2025-11-12 at 7.53.27 PM](https://i.imgur.com/YqlbCq8.png)
+
+"![Screenshot 2025-11-13 211034](blob:https://imgur.com/f26ac70c-c626-4d13-9b91-6b071fef4ffc)
 
 ### [BONUS] Digital Wireframes & Mockups
-"![Screenshot 2025-11-12 at 7.53.27 PM](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_aa49b1acb6bf8f7469291b99758bffbf.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1763088028&Signature=X5x%2FEHPcTU9zAmSO7U7jZVfKMPg%3D)
-
-"![Screenshot 2025-11-13 211034](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_1e782a7200a7467282814fdbbf97057c.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1763088104&Signature=xXQPFk2hzKmAaaRdp09Gnk%2B9ZLQ%3D)
  
 
 ### [BONUS] Interactive Prototype
