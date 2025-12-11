@@ -11,7 +11,7 @@ Time spent: **20** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project building process for our app, **App Name Here**
+This document provides a summary of our project building process for our app, **Welly**
 
 ## Milestone Requirements
 
@@ -24,7 +24,7 @@ The following REQUIRED features are completed:
 
 The following REQUIRED files are included:
 
-- [ ] Updated 📄 `project_spec.md`, which contains:
+- [x] Updated 📄 `project_spec.md`, which contains:
   - [X] App Overview (Milestone 1)
   - [X] App Spec (Milestone 1)
   - [x] Checked off 2+ completed features
@@ -40,9 +40,10 @@ The following EXTRA features are implemented:
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
-[![VIDEO](https://imgur.com/a/ZDutVzw)](https://vimeo.com/1145748228)
 
-VIDEO created with **your chosen video tool**
+[![CLICK HERE FOR VIDEO](https://vimeo.com/1145748228)
+
+VIDEO created with **VIMEO**
 
 ## Notes
 
