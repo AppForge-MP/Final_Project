@@ -94,8 +94,8 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
-![Video 1](https://www.canva.com/design/DAG7Nw9t-8w/pnhepkg5zPftlQVxtptYhA/watch)
-
+![Video 1](https://media.giphy.com/media/jhHiJZoiR9W0ti9lkf/giphy.gif)
+![Video 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM1dGVtcnpudWtseXhwMmtmYWc5dzQ4bDYxZWx5N3N3MzhkMmR6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QSwBS8vaK6SWOzIkFO/giphy.gif)
 
 ## License
 
