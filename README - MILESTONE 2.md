@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-[![CLICK HERE FOR VIDEO](https://vimeo.com/1145748228)
+[CLICK HERE FOR VIDEO](https://vimeo.com/1145748228)
 
 VIDEO created with **VIMEO**
 
