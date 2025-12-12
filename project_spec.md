@@ -43,16 +43,16 @@ The scope of this app is clear and can can be realistic for the average user. It
 
 Required Features:
 
-- Create entries
-- View past entries
-- Edit/update entries
-- Calender 
-- Adding photos 
+✅ Create entries
+✅ Daily Quotes
+✅Change the theme of the app
 
 Stretch Features:
 
 - Creating an account
 - Mood tracker
+- adding photos
+- Calender 
 
 ### 2. Chosen API(s)
 
