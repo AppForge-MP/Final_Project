@@ -71,10 +71,6 @@ Stretch Features:
 ### 3. User Interaction
 
 Required Feature
-
-- **Selecting a date**
-  - Picking a date from the calender to edit
-  - Other months, year, weeks, etc. avaliable to view
 - **Creating an entry**
     - Able to add and create an entry 
 - **Change theme of app **
