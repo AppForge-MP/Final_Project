@@ -44,7 +44,9 @@ The scope of this app is clear and can can be realistic for the average user. It
 Required Features:
 
 ✅ Create entries
+
 ✅ Daily Quotes
+
 ✅Change the theme of the app
 
 Stretch Features:
